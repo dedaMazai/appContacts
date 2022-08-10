@@ -1,4 +1,4 @@
-## ToDoList APP Contact
+## todolist app contact
 
 Записная книжка.
 =======
@@ -11,8 +11,11 @@
 
 ## Available Scripts
 
-Запускается проект с помощью ### `npm run dev`
-Перед запуском проетом не забудьте загрузить в папку с проектом npm_modules с помощью ### `npm install`
+Запускается проект с помощью 
+### `npm run dev`
+
+Перед запуском проетом не забудьте загрузить в папку с проектом npm_modules с помощью 
+### `npm install`
 
 
 In the project directory, you can run:
